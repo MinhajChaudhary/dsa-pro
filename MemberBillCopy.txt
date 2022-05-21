@@ -1,0 +1,12 @@
+
+======================================
+         M.A.J.U CAFETERIA BILL      |
+======================================
+SELECTED PRODUCT       |	Lays	 |
+ORIGINAL PRICE         |	50		 |
+DISCOUNT FOR MEMBERS   |	20%		 |
+TOTAL                  |	40		 |
+--------------------------------------
+TRANSACTION RECORDED BY              |
+MEMBERSHIP CARD                      |
+======================================

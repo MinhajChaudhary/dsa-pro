@@ -1,0 +1,27 @@
+
+
+-------------------INCOME STATEMENT----------------------
+
+_________________________________________________________
+		                	 |     $$$$	 |      $$$$    |
+			                 |		     |	         	|
+sales                        |      	 |		50000	|
+		                     | 	 	     |		        |
+Less: Cost Of Good Sold      |		     |	         	|
+Purchases                    |	 40000 	 |	        	|
+Inventory at end	         |	(5000)	 |	         	|
+C.O.G.S		                 |	         |		(35000)	|
+		                     |	         |	        	|
+Gross profit		         |	         |		15000	|
+  		                     |	      	 |	        	|
+Less: Operating Expenses     |		     |	        	|
+Salaries Expense	         |	 1000	 |		        |
+General Expense              |	 1150	 |	        	|
+Motor Expense		         |	 200	 |		        |
+Insurance Expense	         |	 1100	 |		        |
+Business rates		         |	 2000	 |		        |
+Rent Expense	       	     |	 5000	 |              |
+Total Operating Expenses:    |	 	     |		(10450)	|
+			                 |	    	 |		        |
+Net Profit:		             |		     |		4550	|
+________________________________________________________|

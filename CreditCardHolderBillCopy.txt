@@ -1,0 +1,12 @@
+
+======================================
+         M.A.J.U CAFETERIA BILL      |
+======================================
+SELECTED PRODUCT       |	Lays	 |
+ORIGINAL PRICE         |	50		 |
+DISCOUNT FOR C.HOLDER  |	10%		 |
+TOTAL                  |	45		 |
+--------------------------------------
+TRANSACTION RECORDED BY              |
+CREDIT CARD                          |
+======================================

@@ -1,0 +1,14 @@
+
+======================================
+         M.A.J.U CAFETERIA BILL      |
+======================================
+SELECTED PRODUCT       |	Lays	 |
+ORIGINAL PRICE         |	50		 |
+DISCOUNT FOR GUEST     |	0%		 |
+TOTAL                  |	50		 |
+CASH RECEIVE           |	50		 |
+RETURN AMOUNT          |	0		 |
+--------------------------------------
+TRANSACTION RECORDED BY              |
+CASH                                 |
+======================================
